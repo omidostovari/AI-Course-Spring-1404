@@ -1,4 +1,5 @@
 # Artificial Intelligence Course (Spring 2025)
+**Offered by Tehran University**  
 
 ## Course Schedule
 
