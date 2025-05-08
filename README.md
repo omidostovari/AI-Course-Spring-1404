@@ -53,6 +53,3 @@
 - **Authors:** Stuart Russell and Peter Norvig  
 - **Edition:** Fourth Edition (2021)  
 
----
-
-This Markdown format should work seamlessly in your GitHub repository. Let me know if you'd like to customize it further! 🚀
