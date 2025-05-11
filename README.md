@@ -35,11 +35,11 @@
 
 **Teaching Assistants:**  
 - **Head TA:** Omid Ostovari [Email](mailto:omidostovary@gmail.com) 
-- Shahzad Momayez [Email](mailto:shmomayez@gmail.com/) 
 - Amirreza Hosseinymehr [Email](mailto:amirrezahosseinymehr@gmail.com/)
+- Nikoo Naghavian [Email](mailto:nikoo.naghavian@gmail.com)
+- Shahzad Momayez [Email](mailto:shmomayez@gmail.com/) 
 - Alireza Mirrokni [Email](mailto:alirezamirrokni28@gmail.com)
-- Nikoo Naghavian [Email](nikoo.naghavian@gmail.com)
-
+- Raziye Khabbazi [Email](mailto:khabazi.razi@gmail.com)
 
 ## Grading System
 
