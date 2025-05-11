@@ -38,6 +38,8 @@
 - Shahzad Momayez [Email](mailto:shmomayez@gmail.com/) 
 - Amirreza Hosseinymehr [Email](mailto:amirrezahosseinymehr@gmail.com/)
 - Alireza Mirrokni [Email](mailto:alirezamirrokni28@gmail.com)
+- Nikoo Naghavian [Email](nikoo.naghavian@gmail.com)
+
 
 ## Grading System
 
